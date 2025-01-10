@@ -18,16 +18,14 @@ I come from Beijing and have lived in New York and Shanghai before temporarily s
 
 ### News
 
-* **Oct 2024**: Joined INRIA's [ALMAnaCH](https://almanach.inria.fr/index-fr.html) team as a postdoctoral researcher.
-* **May 2024**: Attended LREC-COLING and gave a talk at the CS department of the University of Turin.
-* **Jan 2024**: Our paper on the semantic quality of split-word representations has been accepted to **TACL**!
-* **Jul 2023**: Our SICon paper on lexico-semantic alignment received the **Outstanding Paper Award**!
-* **Aug 2022**: One paper accepted at **COLING 2022**! 
-* **Jul 2022**: Gave a talk at the Jozef Stefan Institute in Ljubjana, Slovenia.
-* **Apr 2022**: Our paper on polysemy in conversation and written texts has been accepted to **LREC 2022**!
+* **Oct 2024**: Joined INRIA's [ALMAnaCH](https://almanach.inria.fr/index-fr.html) team for the last months of my PhD.
+* **November 2024**: Our paper on benchmarking linguistic diversity in LLMs is out.
+* **November 2024**: Our paper on multilinguality and naturalness in LLMs is out.
+* **May 2024**: Joined Apple AIML for an research internship on multilingual language models.
+* **August 2024**: Our paper on linguistic diversity decline was reported by the New York Times!
+* **June 2024**: One paper accepted at **NAACL** Findings!
+* **December 2023**: One paper accepted at **EMNLP** Findings!
+* **December 2022**: One paper accepted at **EMNLP**!
+* **Jul 2022**: Gave a talk at Laboratoire d'Informatique de Paris Nord.
 * **Sep 2021**: I started working as a postdoctoral researcher at Télécom Paris.
-* **Jun 24, 2021**: I defended my PhD thesis! You can find it [here](https://tel.archives-ouvertes.fr/tel-03341706/document).
-* **Apr 2021**: Our latest work has been accepted at **NAACL 2021** and **TACL**! 
-* **Sep 2020**: Our paper on scalar adjective ranking with BERT has been accepted at **EMNLP 2020**!
-* **May 2020**: Participated in [SemEval 2020 task 3: Graded Word Similarity in Context](https://competitions.codalab.org/competitions/20905).
-* **Feb 2020**: Gave a talk at the [Research Seminar Language Technology](https://blogs.helsinki.fi/language-technology/research-seminar/) of the Department of Digital Humanities, University of Helsinki.
+* **November, 2020**: I recieved the best research internship award from the computer science department at Ecole Polytechnique for my masters project on COVID-19 and semantic change.
