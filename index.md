@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-<img align="left" style="padding-right: 30px; width: 200px" src="pic_mx.jpg">
+<img align="left" style="padding-right: 30px; width: 300px" src="pic_mx.jpg">
 
 Hi, I'm a PhD student in ALMANnaCH at Inria Paris advised by Chloé Clavel. I'm also affiliated with DaSciM at Ecole Polytechnique. My research focuses on the evaluation and alignment of language models, particularly regarding aspects such as multilinguality and diversity. I’m interested in developing metrics to concretize linguistic capabilities of LLMs and developping actionable algorithms to improve LLMs on these metrics.
 
