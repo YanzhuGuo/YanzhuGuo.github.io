@@ -26,6 +26,6 @@ I come from Beijing and have lived in New York and Shanghai before settling in P
 * **June 2024**: Presented one [paper](https://arxiv.org/abs/2311.09807) at **NAACL 2024**.
 * **December 2023**: Presented one [paper](https://arxiv.org/abs/2311.11967) at **EMNLP 2023**.
 * **December 2022**: Presented one [paper](https://arxiv.org/abs/2210.17378) at **EMNLP 2022**.
-* **Jul 2022**: Gave an invited talk on abstractive summarization evaluation at [Laboratoire d'Informatique de Paris Nord](https://lipn.univ-paris13.fr).
+* **March 2022**: Gave an invited talk on abstractive summarization evaluation at [Laboratoire d'Informatique de Paris Nord](https://lipn.univ-paris13.fr).
 * **Feburary 2022**: Started working as a PhD researcher in [DaSciM](https://www.lix.polytechnique.fr/dascim/) at Ecole Polytechnique.
 * **January 2021**: Received the "Prix du Stage de Recherche (Research Internship Prize)" from the Computer Science Department at Ecole Polytechnique for my [Master's project on COVID-19 and semantic change](https://arxiv.org/abs/2102.07836).
