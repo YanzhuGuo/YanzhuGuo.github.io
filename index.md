@@ -27,5 +27,5 @@ I come from Beijing and have lived in New York and Shanghai before temporarily s
 * **December 2023**: One paper accepted at **EMNLP** Findings!
 * **December 2022**: One paper accepted at **EMNLP**!
 * **Jul 2022**: Gave a talk at Laboratoire d'Informatique de Paris Nord.
-* **Feburary 2022**: I started working as a PhD researcher at Ecole Polytechnique.
-* **November, 2020**: I recieved the best research internship award from the computer science department at Ecole Polytechnique for my masters project on COVID-19 and semantic change.
+* **Feburary 2022**: Started working as a PhD researcher at Ecole Polytechnique.
+* **November, 2020**: Recieved the best research internship award from the computer science department at Ecole Polytechnique for my masters project on COVID-19 and semantic change.
