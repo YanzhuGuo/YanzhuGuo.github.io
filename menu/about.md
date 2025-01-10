@@ -3,13 +3,11 @@ layout: page
 title: About
 ---
 
-I completed my Bachelor's degree in Linguistics at the University of Barcelona in 2015. During my studies, I spent half a year in Saint Petersburg, Russia, with a generous Eranet-Mundus Mobility scholarship.
+Hi, I'm a PhD student in ALMANnaCH at Inria Paris advised by Chloé Clavel. I'm also affiliated with DaSciM at Ecole Polytechnique. My research focuses on the evaluation and alignment of language models, particularly regarding aspects such as multilinguality and diversity. I’m interested in developing metrics to concretize linguistic capabilities of LLMs and developping actionable algorithms to improve LLMs on these metrics.
 
-After that, I followed the Erasmus Mundus Master [Language and Communication Technologies](https://lct-master.org/), which took me to Saarland University (Saarbrücken, Germany) and the University of Malta (Msida, Malta), for a year each. My Master's thesis on near-synonymy can be found [here](https://github.com/ainagari/ainagari.github.io/blob/master/AinaGari_MastersThesis_NearSynonymy.pdf).
+Before my PhD, I completed an engineering diploma at Ecole Polytechnique and an undergraduate degree at Shanghai Jiao Tong University. I also spent some time as an research intern at Apple.
 
-During my studies, I worked as a student assistant in four occasions for the University of Barcelona, Pompeu Fabra University and the University of Saarland, working in different (computational) linguistics-related topics, such as corpus annotation.
-
-My mother tongue is Catalan, I speak Spanish fluently; English, Russian and French decently enough, and some German. My name is pronounced `['ajnə]` and my two last names `[gə'ɾi su'ɫe]`.
+I come from Beijing and have lived in New York and Shanghai before coming to Paris. I love learning new languages and slow traveling in off the beaten track destinations. I also like to paint, make pottery and write creative non fiction.
 
 
 <br>
