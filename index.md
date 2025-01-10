@@ -4,14 +4,13 @@ title: Home
 ---
 
 
-<img align="left" style="padding-right: 30px" src="pic_mx.jpg">
+<img align="left" style="padding-right: 30px; width: 200px" src="pic_mx.jpg">
 
-Since September 2021, I've been a postdoctoral researcher working with Chloé Clavel and Matthieu Labeau, first at [Télécom-Paris](https://www.telecom-paris.fr/) and now with the [ALMAnaCH](https://almanach.inria.fr/index-fr.html) team at INRIA, in Paris.
+Hi, I'm a PhD student in ALMANnaCH at Inria Paris advised by Chloé Clavel. I'm also affiliated with DaSciM at Ecole Polytechnique. My research focuses on the evaluation and alignment of language models, particularly regarding aspects such as multilinguality and diversity. I’m interested in developing metrics to concretize linguistic capabilities of LLMs and developping actionable algorithms to improve LLMs on these metrics.
 
-I did my PhD at the [LISN](https://www.lisn.upsaclay.fr/) lab (former LIMSI), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), under the supervision of Marianna Apidianaki and Alexandre Allauzen.
-My thesis, defended in June 2021, addresses the representation of different aspects of word meaning in neural language models. It was part of the ANR [MultiSem](https://sites.google.com/view/multisem/home) project.
+Before my PhD, I completed an engineering diploma at Ecole Polytechnique and an undergraduate degree at Shanghai Jiao Tong University. I also spent some time as an research intern at Apple.
 
-My broad research area is Natural Language Processing (NLP), and more concretely I am focused on Computational Lexical Semantics, or how we can deal with words and their meaning computationally. I am interested in multiple aspects of meaning: (contextual) word meaning representation, paraphrasing, lexical style and connotation, semantic ambiguity, (near-)synonymy, tokenization and lexical semantic change, among others. In my postdoc, I investigate the dynamics of word meaning in dialog: how speakers understand, negotiate and adapt their word usage in interaction.
+I come from Beijing and have lived in New York and Shanghai before temporarily settling in Paris. I enjoy learning new languages and exploring off-the-beaten-path destinations through slow travel. I also love to paint, make pottery and write creative non fiction.
 
 <br>
 <br>
