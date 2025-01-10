@@ -25,7 +25,7 @@ I come from Beijing and have lived in New York and Shanghai before temporarily s
 * **August 2024**: Our paper on synthetic data and linguistic diversity was [reported by the **New York Times**](https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html?unlocked_article_code=1.F04.kJ4l.YL3ADZ0eRmy4).
 * **June 2024**: Presented one paper at **NAACL** 2024!
 * **December 2023**: Presented one paper at **EMNLP** 2023!
-* **December 2022**: Presented one paper accepted at **EMNLP** 2022!
+* **December 2022**: Presented one paper at **EMNLP** 2022!
 * **Jul 2022**: Gave an invited talk on abstractive summarization evaluation at [Laboratoire d'Informatique de Paris Nord](https://lipn.univ-paris13.fr).
 * **Feburary 2022**: Started working as a PhD researcher at Ecole Polytechnique.
-* **November, 2020**: Received the "Prix du Stage de Recherche" from the Computer Science Department at École Polytechnique for my [Master's project on COVID-19 and semantic change](https://arxiv.org/abs/2102.07836).
+* **November, 2020**: Received the "Prix du Stage de Recherche (Research Internship Prize)" from the Computer Science Department at École Polytechnique for my [Master's project on COVID-19 and semantic change](https://arxiv.org/abs/2102.07836).
