@@ -28,4 +28,4 @@ I come from Beijing and have lived in New York and Shanghai before temporarily s
 * **December 2022**: One paper accepted at **EMNLP**!
 * **Jul 2022**: Gave an invited talk on abstractive summarization evaluation at [Laboratoire d'Informatique de Paris Nord](https://lipn.univ-paris13.fr).
 * **Feburary 2022**: Started working as a PhD researcher at Ecole Polytechnique.
-* **November, 2020**: Received the "Prix du Stage de Recherche" from the Computer Science Department at École Polytechnique for my [Master's project on COVID-19 and semantic change]{https://arxiv.org/abs/2102.07836}.
+* **November, 2020**: Received the "Prix du Stage de Recherche" from the Computer Science Department at École Polytechnique for my [Master's project on COVID-19 and semantic change](https://arxiv.org/abs/2102.07836).
