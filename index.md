@@ -19,8 +19,8 @@ I come from Beijing and have lived in New York and Shanghai before settling in P
 ### News
 
 * **Oct 2024**: Joined INRIA's [ALMAnaCH](https://almanach.inria.fr/index-fr.html) team for the last months of my PhD.
-* **November 2024**: Our paper on **benchmarking linguistic diversity in LLMs** is out.
-* **November 2024**: Our paper on **naturalness in multilingual LLMs** is out.
+* **December 2024**: Our paper on **benchmarking linguistic diversity in LLMs** is out.
+* **October 2024**: Our paper on **naturalness in multilingual LLMs** is out.
 * **May 2024**: Joined **Apple AIML** for an research internship on multilingual language models.
 * **August 2024**: Our paper on synthetic data and linguistic diversity was [reported by the **New York Times**](https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html?unlocked_article_code=1.F04.kJ4l.YL3ADZ0eRmy4).
 * **June 2024**: Presented one paper at **NAACL** 2024.
