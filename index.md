@@ -6,7 +6,7 @@ title: Home
 
 <img align="left" style="padding-right: 30px; width: 350px" src="pic_mx.jpg">
 
-Hi, I'm a PhD student in [ALMANnaCH](https://almanach.inria.fr/index-fr.html) at Inria Paris advised by [Chloé Clavel](https://clavel.wp.imt.fr/). I'm also affiliated with [DaSciM](https://www.lix.polytechnique.fr/dascim/) at Ecole Polytechnique. My research focuses on the evaluation and alignment of language models, particularly regarding lingusitic aspects such as linguistic diversity and multilingualism.
+Hi, I'm a PhD student in [ALMANnaCH](https://almanach.inria.fr/index-fr.html) at Inria Paris advised by [Chloé Clavel](https://clavel.wp.imt.fr/). I'm also affiliated with [DaSciM](https://www.lix.polytechnique.fr/dascim/) at Ecole Polytechnique. My research focuses on the evaluation and alignment of large language models, particularly regarding lingusitic aspects such as diversity and multilingualism.
 
 I completed an engineering diploma at [Ecole Polytechnique](https://www.polytechnique.edu/) and an undergraduate degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I also spent some time as a research intern at [Apple AIML](https://machinelearning.apple.com/).
 
@@ -17,9 +17,8 @@ I come from Beijing and have lived in New York and Shanghai before settling in P
 
 
 ### News
-
-* **December 2024**: Our paper on **[benchmarking linguistic diversity in LLMs](https://arxiv.org/abs/2412.10271)** is on arXiv.
-* **October 2024**: Our paper on **[naturalness of multilingual LLMs](https://arxiv.org/abs/2410.15956)** is on arXiv.
+* **June 2025**: Our paper on **[benchmarking linguistic diversity in LLMs](https://arxiv.org/abs/2412.10271)** was accepted to **TACL**.
+* **May 2025**: Our paper on **[naturalness of multilingual LLMs](https://arxiv.org/abs/2410.15956)** was accepted to **ACL 2025**.
 * **October 2024**: Joined INRIA's **[ALMAnaCH](https://almanach.inria.fr/index-fr.html)** team for the last months of my PhD.
 * **August 2024**: Our [paper](https://arxiv.org/abs/2311.09807) on synthetic data and linguistic diversity was [reported by the **New York Times**](https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html?unlocked_article_code=1.F04.kJ4l.YL3ADZ0eRmy4).
 * **June 2024**: Presented one [paper](https://arxiv.org/abs/2311.09807) at **NAACL 2024**.
