@@ -6,7 +6,9 @@ title: Home
 
 <img align="left" style="padding-right: 30px; width: 350px" src="pic_mx.jpg">
 
-Hi, I'm a PhD student in [ALMANnaCH](https://almanach.inria.fr/index-fr.html) at Inria Paris advised by [Chloé Clavel](https://clavel.wp.imt.fr/). I'm also affiliated with [DaSciM](https://www.lix.polytechnique.fr/dascim/) at Ecole Polytechnique. My research focuses on the evaluation and alignment of large language models, particularly regarding lingusitic aspects such as diversity and multilingualism.
+Hi, I’m taking a few months away from research to explore local crafts like wood-fired pottery and batik in the mountains of southwestern China. I’ll be back in December 2025 to join Telecom Paris as an assistant professor.
+
+Previously I was a PhD student in [ALMANnaCH](https://almanach.inria.fr/index-fr.html) at Inria Paris advised by [Chloé Clavel](https://clavel.wp.imt.fr/). I was also affiliated with [DaSciM](https://www.lix.polytechnique.fr/dascim/) at Ecole Polytechnique. My research focuses on the evaluation and alignment of large language models, particularly regarding lingusitic aspects such as diversity and multilingualism.
 
 I completed an engineering diploma at [Ecole Polytechnique](https://www.polytechnique.edu/) and an undergraduate degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I also spent some time as a research intern at [Apple AIML](https://machinelearning.apple.com/).
 
