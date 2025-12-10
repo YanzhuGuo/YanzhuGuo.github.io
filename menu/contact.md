@@ -3,10 +3,11 @@ layout: page
 title: Contact
 ---
 
-yanzhu [dot] guo [at] inria [dot] fr
+yanzhu [dot] guo [at] ip-paris [dot] fr
 
 
-Office B11\
-48 Rue Barrault\
-75013 Paris
+Office 4.C42\
+Télécom Paris\
+19 Pl. Marguerite Perey\
+91120 Palaiseau
 France
