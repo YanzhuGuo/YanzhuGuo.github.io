@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ceramics
+title: Art
 ---
 
 yanzhu [dot] guo [at] ip-paris [dot] fr
