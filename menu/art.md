@@ -3,8 +3,6 @@ layout: page
 title: Art
 ---
 
-Some pieces from my recent work:
-
 Layered Earth
 ![Layered Earth](/ceramics/a04ff339db84d54838f1c49868c32ad7.JPG)
 
