@@ -14,4 +14,5 @@ Soft Currents
 Earth and Sky
 ![Earth and Sky](/ceramics/ac066f9e0b5bf674d8f4b910fd6c2da9.JPG)
 
-![Dusk and Dawn(/ceramics/525b900850f0b233c34d275d2be42d6b.JPG)
+Dusk and Dawn
+![Dusk and Dawn](/ceramics/525b900850f0b233c34d275d2be42d6b.JPG)
