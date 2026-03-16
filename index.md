@@ -12,7 +12,7 @@ Previously I was a PhD student in [ALMANnaCH](https://almanach.inria.fr/index-fr
 
 I completed an engineering diploma at [Ecole Polytechnique](https://www.polytechnique.edu/) and an undergraduate degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I also spent some time as a research intern at [Apple AIML](https://machinelearning.apple.com/).
 
-I come from Beijing and have lived in New York and Shanghai before settling in Paris for the moment. I enjoy learning new languages and exploring off-the-beaten-path destinations through solo backpacking. I also love to paint, make pottery and write creative non fiction.
+I come from Beijing and have lived in New York and Shanghai before settling in Paris for the moment. I enjoy learning new languages and exploring off-the-beaten-path destinations through solo backpacking. I also love to paint, make pottery and write creative non fiction. See some of my recent work [here](https://yanzhuguo.github.io/menu/art.html).
 
 <br>
 <br>
