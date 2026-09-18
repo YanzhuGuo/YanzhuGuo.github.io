@@ -5,9 +5,9 @@ title: Selected Publications
 
 #### 2025
 
-* **Yanzhu Guo**, Guokan Shang, Michalis Vazirgiannis and Chloé Clavel (2025). [Benchmarking Linguistic Diversity of Large Language Models](https://arxiv.org/abs/2412.10271). _Accepted to TACL._
+* **Yanzhu Guo**, Guokan Shang, Michalis Vazirgiannis and Chloé Clavel (2025). [Benchmarking Linguistic Diversity of Large Language Models](https://arxiv.org/abs/2412.10271). _Transactions of the Association for Computational Linguistics (TACL)._
 
-* **Yanzhu Guo**, Simone Conia, Charlie Zhou, Min Li, Saloni Potdar and Henry Xiao (2025). [Do Language Models Have an English Accent? Evaluating and Improving the Naturalness of Multilingual LLMs](https://arxiv.org/abs/2410.15956). _Accepted to ACL 2025._
+* **Yanzhu Guo**, Simone Conia, Charlie Zhou, Min Li, Saloni Potdar and Henry Xiao (2025). [Do Language Models Have an English Accent? Evaluating and Improving the Naturalness of Multilingual LLMs](https://arxiv.org/abs/2410.15956). In _Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)._
 
 
 #### 2024
@@ -23,4 +23,3 @@ title: Selected Publications
 #### 2022
 
 * **Yanzhu Guo**,  Chloé Clavel, Moussa Kamal Eddine and Michalis Vazirgiannis (2022). [Questioning the Validity of Summarization Datasets and Improving Their Factual Consistency](https://arxiv.org/abs/2210.17378). In _Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022._
-
