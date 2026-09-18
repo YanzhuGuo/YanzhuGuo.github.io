@@ -20,9 +20,13 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Yanzhu Guo'
-description:	       ''
-author:              'P.L.'
+title:               'Yanzhu Guo'
+description:         'Assistant Professor at Télécom Paris researching the evaluation and alignment of large language models, with a focus on linguistic diversity and multilingualism.'
+author:              'Yanzhu Guo'
+url:                 'https://yanzhuguo.github.io'
+baseurl:             ''
+lang:                'en'
+logo:                '/pic_mx.jpg'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
