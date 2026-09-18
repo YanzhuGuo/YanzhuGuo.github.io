@@ -19,7 +19,7 @@ I come from Beijing and have lived in New York and Shanghai before settling in P
 
 
 ### News
-* **December 2026**: Joined [DIG](https://dig.telecom-paris.fr/blog/) team at [Télécom Paris](https://www.telecom-paris.fr), [Institut Polytechnique de Paris](https://www.ip-paris.fr) as a permanenet .
+* **December 2026**: Joined [DIG](https://dig.telecom-paris.fr/blog/) team at [Télécom Paris](https://www.telecom-paris.fr) as a permanenet faculty member.
 * **June 2025**: Defended my PhD thesis: **[Automatic evaluation of human-written and machine-generated text](https://theses.hal.science/tel-05317111/)**.
 * **June 2025**: Our paper on **[benchmarking linguistic diversity in LLMs](https://arxiv.org/abs/2412.10271)** was accepted to **TACL**.
 * **May 2025**: Our paper on **[naturalness of multilingual LLMs](https://arxiv.org/abs/2410.15956)** was accepted to **ACL 2025**.
