@@ -17,7 +17,14 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&amp;family=Quattrocento+Sans:wght@400;700&amp;family=Source+Code+Pro&amp;display=swap">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-  <!-- Use Jekyll SEO plugin -->
+  <!-- Use the portfolio brand as the homepage search-result title. -->
+  {% if page.url == '/' %}
+  <title>{{ site.title }} | {{ site.tagline }}</title>
+  <meta property="og:title" content="{{ site.title }} | {{ site.tagline }}">
+  <meta name="twitter:title" content="{{ site.title }} | {{ site.tagline }}">
+  {% seo title=false %}
+  {% else %}
   {% seo %}
+  {% endif %}
 
 </head>
