@@ -175,6 +175,19 @@ hr {
   margin: 0;
 }
 
+.art-grid--jingdezhen {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.art-grid--jingdezhen .art-grid__featured {
+  grid-column: 1 / -1;
+}
+
+.art-grid--jingdezhen .art-grid__featured img {
+  display: block;
+  width: 100%;
+}
+
 .art-grid figcaption {
   font-family: "Quattrocento Sans", sans-serif;
   font-weight: 700;
