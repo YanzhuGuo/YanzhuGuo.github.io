@@ -21,6 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:               'Yanzhu Guo'
+tagline:             'Research & Art'
 description:         'Assistant Professor at Télécom Paris researching the evaluation and alignment of large language models, with a focus on linguistic diversity and multilingualism.'
 author:              'Yanzhu Guo'
 url:                 'https://yanzhuguo.github.io'
