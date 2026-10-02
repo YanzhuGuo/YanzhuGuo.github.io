@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: About
 ---
 
 <img class="profile-photo" src="{{ '/pic_mx.jpg' | relative_url }}" alt="Portrait of Yanzhu Guo" width="350">
