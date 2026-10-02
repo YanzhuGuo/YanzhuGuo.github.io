@@ -1,7 +1,3 @@
-html {
-  font-size: 17px;
-}
-
 /*
   Contents:
     Base
@@ -20,6 +16,10 @@ html {
 /*
   Base
 */
+
+html {
+  font-size: 17px;
+}
 
 body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
@@ -172,11 +172,20 @@ hr {
 .art-grid {
   display: grid;
   gap: 30px;
-  grid-template-columns: repeat(2, minmax(0, 350px));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .art-grid figure {
   margin: 0;
+}
+
+.art-grid img {
+  display: block;
+  width: 100%;
+}
+
+.art-grid .art-grid__wide {
+  grid-column: 1 / -1;
 }
 
 .art-grid--jingdezhen {
@@ -185,11 +194,6 @@ hr {
 
 .art-grid--jingdezhen .art-grid__featured {
   grid-column: 1 / -1;
-}
-
-.art-grid--jingdezhen .art-grid__featured img {
-  display: block;
-  width: 100%;
 }
 
 .art-grid figcaption {
