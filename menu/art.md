@@ -31,11 +31,11 @@ title: Art
   <figure>
     <img src="{{ '/ceramics/fayoum-02.jpg' | relative_url }}" alt="Ceramic artwork made in Fayoum, Egypt" width="350" loading="lazy">
   </figure>
-  <figure>
-    <img src="{{ '/ceramics/fayoum-03.jpg' | relative_url }}" alt="Ceramic artwork made in Fayoum, Egypt" width="350" loading="lazy">
+  <figure class="art-grid__wide">
+    <img src="{{ '/ceramics/fayoum-03.jpg' | relative_url }}" alt="Ceramic artwork made in Fayoum, Egypt" loading="lazy">
   </figure>
-  <figure>
-    <img src="{{ '/ceramics/fayoum-04.jpg' | relative_url }}" alt="Ceramic artwork made in Fayoum, Egypt" width="350" loading="lazy">
+  <figure class="art-grid__wide">
+    <img src="{{ '/ceramics/fayoum-04.jpg' | relative_url }}" alt="Ceramic artwork made in Fayoum, Egypt" loading="lazy">
   </figure>
 </div>
 
@@ -48,8 +48,4 @@ title: Art
   <figure>
     <img src="{{ '/ceramics/paris-mobile-02.jpg' | relative_url }}" alt="Ceramic mobile made in Paris, France" width="350" loading="lazy">
   </figure>
-  <figure>
-    <img src="{{ '/ceramics/paris-mobile-03.jpg' | relative_url }}" alt="Ceramic mobile made in Paris, France" width="350" loading="lazy">
-  </figure>
 </div>
-
