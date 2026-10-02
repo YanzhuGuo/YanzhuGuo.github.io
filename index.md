@@ -5,13 +5,13 @@ title: About
 
 <img class="profile-photo" src="{{ '/pic_mx.jpg' | relative_url }}" alt="Portrait of Yanzhu Guo" width="350">
 
-Hi, I'm an Assistant Professor in the [DIG](https://dig.telecom-paris.fr/blog/) team at [Télécom Paris](https://www.telecom-paris.fr), [Institut Polytechnique de Paris](https://www.ip-paris.fr). My research focuses on the evaluation and alignment of large language models, particularly multilingualism, cultural awareness, diversity and creativity. Feel free to reach out if you are interested in collaborating.
+Hi, I’m Yanzhu, an Assistant Professor in the [DIG](https://dig.telecom-paris.fr/blog/) team at [Télécom Paris](https://www.telecom-paris.fr/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/). My research focuses on the evaluation and alignment of large language models, with particular interests in linguistic diversity, creativity, multilingualism, and multiculturalism.
 
-I completed my PhD at École Polytechnique and Inria Paris, where I was advised by [Chloé Clavel](https://clavel.wp.imt.fr/) and affiliated with the [ALMANaCH](https://almanach.inria.fr/index-fr.html) and [DaSciM](https://www.lix.polytechnique.fr/dascim/) teams.
+I completed my PhD in the [ALMANaCH](https://almanach.inria.fr/index-fr.html) team at Inria Paris, where I was advised by [Chloé Clavel](https://clavel.wp.imt.fr/). During my PhD, I was also affiliated with the [DaSciM](https://www.lix.polytechnique.fr/dascim/) team at École Polytechnique.
 
-Before that, I completed an engineering degree at [École Polytechnique](https://www.polytechnique.edu/) and an undergraduate degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I was also a research intern at [Apple AIML](https://machinelearning.apple.com/).
+Before that, I earned an engineering degree from [École Polytechnique](https://www.polytechnique.edu/) and an undergraduate degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I also spent some time as a research intern at [Apple AIML](https://machinelearning.apple.com/).
 
-I come from Beijing and have lived in New York and Shanghai before settling in Paris. Outside research, I enjoy learning languages, slow travel through rural areas, painting, making pottery and writing creative nonfiction. You can see some of my recent artwork [here]({{ '/menu/art.html' | relative_url }}).
+I’m originally from Beijing and have lived in New York and Shanghai before settling in Paris. Outside of research, I enjoy learning languages, slow travel through rural areas, painting, creative writing, and making pottery. You can see some of my recent artwork [here](https://yanzhuguo.github.io/menu/art.html).
 
 <br>
 <br>
