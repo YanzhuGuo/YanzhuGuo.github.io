@@ -1,5 +1,6 @@
 <div class="menu">
   <nav class="menu-content" aria-label="Primary navigation">
+    <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>About</a>
     {% for item in site.data.settings.menu %}
       {% assign item_url = '/' | append: item.path | append: '/' | append: item.url %}
       <a href="{{ item_url | relative_url }}"{% if page.url == item_url %} aria-current="page"{% endif %}>{{ item.name }}</a>
@@ -9,3 +10,4 @@
     {% include social-icons.html %}
   </nav>
 </div>
+
