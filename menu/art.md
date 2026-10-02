@@ -3,6 +3,8 @@ layout: page
 title: Art
 ---
 
+**Somewhere Else Ceramics** is the name under which I create. My work is shaped by travel, place, and the search for belonging, drawing inspiration from the landscapes, encounters, languages, and cultures that accompany me as I move between different places. Through clay, I preserve traces of these journeys and explore what it means to inhabit a place, become attached to it, or search elsewhere for a sense of home. My pieces bring together memories, organic forms, and imagined worlds inspired by territories both real and dreamed.
+
 ## Jingdezhen, China
 
 <div class="art-grid art-grid--jingdezhen">
@@ -33,3 +35,4 @@ title: Art
     <img src="{{ '/ceramics/paris-mobile-03.jpg' | relative_url }}" alt="Ceramic mobile made in Paris, France" width="350" loading="lazy">
   </figure>
 </div>
+
