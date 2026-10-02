@@ -22,6 +22,23 @@ title: Art
   </figure>
 </div>
 
+## Fayoum, Egypt
+
+<div class="art-grid">
+  <figure>
+    <img src="{{ '/ceramics/fayoum-01.jpg' | relative_url }}" alt="Ceramic artwork made in Fayoum, Egypt" width="350" loading="lazy">
+  </figure>
+  <figure>
+    <img src="{{ '/ceramics/fayoum-02.jpg' | relative_url }}" alt="Ceramic artwork made in Fayoum, Egypt" width="350" loading="lazy">
+  </figure>
+  <figure>
+    <img src="{{ '/ceramics/fayoum-03.jpg' | relative_url }}" alt="Ceramic artwork made in Fayoum, Egypt" width="350" loading="lazy">
+  </figure>
+  <figure>
+    <img src="{{ '/ceramics/fayoum-04.jpg' | relative_url }}" alt="Ceramic artwork made in Fayoum, Egypt" width="350" loading="lazy">
+  </figure>
+</div>
+
 ## Paris, France
 
 <div class="art-grid">
