@@ -3,10 +3,9 @@ layout: page
 title: Home
 ---
 
-
 <img class="profile-photo" src="{{ '/pic_mx.jpg' | relative_url }}" alt="Portrait of Yanzhu Guo" width="350">
 
-Hi, I'm an Assistant Professor in the [DIG](https://dig.telecom-paris.fr/blog/) team at [Télécom Paris](https://www.telecom-paris.fr), [Institut Polytechnique de Paris](https://www.ip-paris.fr). My research focuses on the evaluation and alignment of large language models, particularly multilingualism, cultural awareness, diversity and creativity.
+Hi, I'm an Assistant Professor in the [DIG](https://dig.telecom-paris.fr/blog/) team at [Télécom Paris](https://www.telecom-paris.fr), [Institut Polytechnique de Paris](https://www.ip-paris.fr). My research focuses on the evaluation and alignment of large language models, particularly multilingualism, cultural awareness, diversity and creativity. Feel free to reach out if you are interested in collaborating.
 
 I completed my PhD at École Polytechnique and Inria Paris, where I was advised by [Chloé Clavel](https://clavel.wp.imt.fr/) and affiliated with the [ALMANaCH](https://almanach.inria.fr/index-fr.html) and [DaSciM](https://www.lix.polytechnique.fr/dascim/) teams.
 
@@ -17,6 +16,9 @@ I come from Beijing and have lived in New York and Shanghai before settling in P
 <br>
 <br>
 
+### Service
+
+I have served as a reviewer for ACL, EMNLP, EACL and the *Journal of Artificial Intelligence Research*.
 
 ### News
 * **July 2026**: Presented our TACL paper on [benchmarking linguistic diversity in LLMs](https://arxiv.org/abs/2412.10271) at **ACL 2026**.
@@ -33,3 +35,4 @@ I come from Beijing and have lived in New York and Shanghai before settling in P
 * **March 2022**: Gave an invited talk on abstractive summarization evaluation at **[Laboratoire d'Informatique de Paris Nord](https://lipn.univ-paris13.fr)**.
 * **February 2022**: Started working as a PhD researcher in **[DaSciM](https://www.lix.polytechnique.fr/dascim/)** at École Polytechnique.
 * **January 2021**: Received the **Prix du Stage de Recherche (Research Internship Prize)** from the Computer Science Department at Ecole Polytechnique for my [Master's project on COVID-19 and semantic change](https://arxiv.org/abs/2102.07836).
+
