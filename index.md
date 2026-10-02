@@ -16,10 +16,6 @@ I come from Beijing and have lived in New York and Shanghai before settling in P
 <br>
 <br>
 
-### Service
-
-I have served as a reviewer for ACL, EMNLP, EACL and the *Journal of Artificial Intelligence Research*.
-
 ### News
 * **July 2026**: Presented our TACL paper on [benchmarking linguistic diversity in LLMs](https://arxiv.org/abs/2412.10271) at **ACL 2026**.
 * **December 2025**: Joined [DIG](https://dig.telecom-paris.fr/blog/) at **Télécom Paris** as an Assistant Professor.
