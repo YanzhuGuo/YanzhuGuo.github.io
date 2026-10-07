@@ -22,6 +22,14 @@ title: Art
   </figure>
 </div>
 
+## Jingtiancun, China
+
+<div class="art-grid">
+  <figure class="art-grid__wide">
+    <img src="{{ '/ceramics/jingtiancun-01.jpg' | relative_url }}" alt="Ceramic artwork made in Jingtiancun, China" loading="lazy">
+  </figure>
+</div>
+
 ## Fayoum, Egypt
 
 <div class="art-grid">
@@ -36,6 +44,14 @@ title: Art
   </figure>
   <figure class="art-grid__wide">
     <img src="{{ '/ceramics/fayoum-04.jpg' | relative_url }}" alt="Ceramic artwork made in Fayoum, Egypt" loading="lazy">
+  </figure>
+</div>
+
+## San Rafael, Colombia
+
+<div class="art-grid">
+  <figure class="art-grid__wide">
+    <img src="{{ '/ceramics/san-rafael-01.jpg' | relative_url }}" alt="Ceramic artwork made in San Rafael, Colombia" loading="lazy">
   </figure>
 </div>
 
