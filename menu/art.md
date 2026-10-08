@@ -49,6 +49,7 @@ title: Art
 
 ## San Rafael, Colombia
 
+<!-- Display the bottom 65% of the original photograph. -->
 <div class="art-grid">
   <figure class="art-grid__wide">
     <img src="{{ '/ceramics/san-rafael-01.jpg' | relative_url }}" alt="Ceramic artwork made in San Rafael, Colombia" loading="lazy" style="aspect-ratio: 15 / 13; object-fit: cover; object-position: bottom;">
