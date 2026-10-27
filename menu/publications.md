@@ -6,13 +6,25 @@ title: Selected Publications
 
 
 
+
+
+
+
 #### 2026
+
+
 
 
 * Kanghyeon Kim, Johannes F. Lutzeyer and **Yanzhu Guo** (2026). [Attention-Graph Curvature for the Verification of Mathematical Reasoning](https://arxiv.org/abs/2610.16709). In _[The 6th Workshop on Mathematical Reasoning and AI (MATH-AI) at NeurIPS 2026](https://mathai-2026.github.io/)._
 
 
-* Christelle Clervilsson and **Yanzhu Guo** (2026). [Evaluating Cultural Awareness of LLMs for Haitian Creole](https://arxiv.org/abs/2609.31506). In _Proceedings of the PANDORA Workshop at EMNLP 2026._
+
+
+* Christelle Clervilsson and **Yanzhu Guo** (2026). [Evaluating Cultural Awareness of LLMs for Haitian Creole](https://arxiv.org/abs/2609.31506). In _Proceedings of the [PANDORA Workshop at EMNLP 2026](https://pandora-workshop.github.io/)._
+
+
+
+
 
 
 
@@ -22,7 +34,15 @@ title: Selected Publications
 
 
 
+
+
+
+
 * **Yanzhu Guo**, Guokan Shang, Michalis Vazirgiannis and Chloé Clavel (2025). [Benchmarking Linguistic Diversity of Large Language Models](https://arxiv.org/abs/2412.10271). _Transactions of the Association for Computational Linguistics (TACL)._
+
+
+
+
 
 
 
@@ -36,7 +56,19 @@ title: Selected Publications
 
 
 
+
+
+
+
+
+
+
+
 #### 2024
+
+
+
+
 
 
 
@@ -47,26 +79,17 @@ title: Selected Publications
 
 
 
+
+
+
+
 #### 2023
 
 
 
 
+
+
+
+
 * **Yanzhu Guo**,  Guokan Shang, Virgile Rennard, Michalis Vazirgiannis and Chloé Clavel (2023). [Automatic Analysis of Substantiation in Scientific Peer Reviews](https://arxiv.org/abs/2311.11967). In _Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023._
-
-
-
-
-
-
-
-
-#### 2022
-
-
-
-
-* **Yanzhu Guo**,  Chloé Clavel, Moussa Kamal Eddine and Michalis Vazirgiannis (2022). [Questioning the Validity of Summarization Datasets and Improving Their Factual Consistency](https://arxiv.org/abs/2210.17378). In _Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022._
-
-
-
